@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/norie-icon.jpg" width="128" alt="Norie icon" />
+  <img src="./assets/norie_01.jpg" width="128" alt="Norie icon" />
 </p>
 
 <h1 align="center">Norie</h1>
